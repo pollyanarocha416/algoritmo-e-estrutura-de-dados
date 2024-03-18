@@ -51,3 +51,6 @@ def remove_duplicatas_sem_ordenar(lista):
     return lista_sem_duplicatas
 
 print(remove_duplicatas_sem_ordenar([2, 3, 2, 1, 4, 5, 6, 5]))
+
+
+
